@@ -1,0 +1,10 @@
+name: PlotAutoHide
+version: '${project.version}'
+main: xyz.fragmentmc.plotautohide.PlotAutoHide
+api-version: 1.19
+authors: [ jesus_is_hot ]
+description: Automatically add the hide flag from PlotSquared PlotHider.
+website: fragmentmc.xyz
+softdepend:
+  - PlotSquared
+  - plothider
